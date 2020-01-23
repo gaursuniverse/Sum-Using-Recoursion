@@ -1,2 +1,3 @@
 # Sum-Using-Recoursion
-Click on the above link to get the solution
+# Input:10
+# Output:55
